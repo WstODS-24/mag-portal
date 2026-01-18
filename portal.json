@@ -2,17 +2,25 @@
   {
     "id": "tv",
     "title": "Телеканалы",
+    "cmd": "http://ip-tv.free.nf/channels.php",
     "type": "category",
-    "cmd": "https://WstODS-24.github.io/mag-portal/channels.json",
-    "icon": "https://WstODS-24.github.io/mag-portal/icons/tv.png",
+    "icon": "https://wstods-24.github.io/mag-portal/icons/tv.png",
     "use_icon": true
   },
   {
-    "id": "video",
-    "title": "ForkPlayer",
+    "id": "radio",
+    "title": "Радио",
+    "cmd": "http://ip-tv.free.nf/radio.php",
+    "type": "category",
+    "icon": "https://wstods-24.github.io/mag-portal/icons/radio.png",
+    "use_icon": true
+  },
+  {
+    "id": "settings",
+    "title": "Настройки",
+    "cmd": "settings",
     "type": "app",
-    "cmd": "portal_launcher http://forkplayer.tv",
-    "icon": "https://WstODS-24.github.io/mag-portal/icons/video.png",
+    "icon": "https://wstods-24.github.io/mag-portal/icons/settings.png",
     "use_icon": true
   }
 ]
