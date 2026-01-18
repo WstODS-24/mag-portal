@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1tv",
+    "title": "Первый канал",
+    "type": "stream",
+    "cmd": "ffmpeg https://1tv-live.akamaized.net/hls/live/2010743/1tv/playlist.m3u8",
+    "icon": "https://static.wikia.nocookie.net/logos/images/2/26/Channel_One_HD_Russia_Blue.png",
+    "use_icon": true
+  },
+  {
+    "id": "russia1",
+    "title": "Россия 1",
+    "type": "stream",
+    "cmd": "ffmpeg https://rossiya1.akamaized.net/hls/live/2026821/rossiya1/playlist.m3u8",
+    "icon": "https://assets.newsweek.com/wp-content/uploads/2025/08/2130777-russia-1-tv-channel.jpg",
+    "use_icon": true
+  },
+    {
+    "id": "viva",
+    "title": "viva",
+    "type": "stream",
+    "cmd": "ffmpeg https://streaming.cmtv.ru/q/7AJAr9JAewE/llhls.m3u8",
+    "icon": "https://assets.newsweek.com/wp-content/uploads/2025/08/2130777-russia-1-tv-channel.jpg",
+    "use_icon": true
+  }
+]
