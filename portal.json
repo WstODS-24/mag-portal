@@ -3,8 +3,8 @@
     "id": "tv",
     "title": "Телеканалы",
     "type": "category",
-    "cmd": "https://USERNAME.github.io/mag-portal/channels.json",
-    "icon": "https://USERNAME.github.io/mag-portal/icons/tv.png",
+    "cmd": "https://WstODS-24.github.io/mag-portal/channels.json",
+    "icon": "https://WstODS-24.github.io/mag-portal/icons/tv.png",
     "use_icon": true
   },
   {
