@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tv",
+    "title": "Телеканалы",
+    "type": "category",
+    "cmd": "https://USERNAME.github.io/mag-portal/channels.json",
+    "icon": "https://USERNAME.github.io/mag-portal/icons/tv.png",
+    "use_icon": true
+  },
+  {
+    "id": "video",
+    "title": "ForkPlayer",
+    "type": "app",
+    "cmd": "portal_launcher http://forkplayer.tv",
+    "icon": "https://WstODS-24.github.io/mag-portal/icons/video.png",
+    "use_icon": true
+  }
+]
